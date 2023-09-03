@@ -5,9 +5,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Comparator;
 
-
 public class OrdenacaoPessoas {
-  //atributo
+  // atributo
   private List<Pessoa> pessoaList;
 
   public OrdenacaoPessoas() {
@@ -39,7 +38,7 @@ public class OrdenacaoPessoas {
   }
 
   public static void main(String[] args) {
-  // Criando uma instância da classe OrdenacaoPessoas
+    // Criando uma instância da classe OrdenacaoPessoas
     OrdenacaoPessoas ordenacaoPessoas = new OrdenacaoPessoas();
 
     // Adicionando pessoas à lista
