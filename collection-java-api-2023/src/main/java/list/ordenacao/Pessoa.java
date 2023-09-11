@@ -18,6 +18,7 @@ public class Pessoa implements Comparable<Pessoa> {
         // TODO Auto-generated method stub
         return Integer.compare(idade, p.getIdade());
     }
+    
 
     public String getNome() {
         return nome;
